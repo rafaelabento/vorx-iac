@@ -18,5 +18,6 @@ module "vpc" {
     Team = "SRE"
     BU = "Conta Digital"
     CC = "10512"
+    Escope = "n/a"
   }
 }
